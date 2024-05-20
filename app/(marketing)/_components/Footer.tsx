@@ -8,10 +8,10 @@ const Footer = () => {
         <Logo />
         <div className=" space-x-4 md:block md:w-auto w-full flex justify-between items-center">
           <Button size="sm" variant="ghost">
-            privacy policy{" "}
+            privacy policy
           </Button>
           <Button size="sm" variant="ghost">
-            Terms of service{" "}
+            Terms of service
           </Button>
         </div>
       </div>
