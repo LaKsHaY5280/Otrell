@@ -9,10 +9,10 @@ const Navbar = () => {
         <Logo />
         <div className=" space-x-4 md:block md:w-auto w-full flex justify-between items-center">
           <Button size="sm" variant="outline" asChild>
-            <Link href="/login">Login</Link>
+            <Link href="/sign-in">Login</Link>
           </Button>
           <Button size="sm" asChild>
-            <Link href="/sign-in">Get Otrell for free</Link>
+            <Link href="/sign-up">Get Otrell for free</Link>
           </Button>
         </div>
       </div>
